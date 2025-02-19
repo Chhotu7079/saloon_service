@@ -357,3 +357,7 @@ All error responses will be returned in the following format:
   "error": "Error message here"
 }
 ```
+![Screenshot 2025-02-19 175837](https://github.com/user-attachments/assets/dc26ac35-521b-47bf-ace7-630307da4e7f)
+![Screenshot 2025-02-19 175855](https://github.com/user-attachments/assets/cbf5e892-aa1a-427a-8355-bc533f4bb0f3)
+
+
